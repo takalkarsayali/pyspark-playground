@@ -1,16 +1,6 @@
 # pyspark-playground
 PySpark Notes
 
-### Agenda
-- What is Spark
-- Spark Architure (Imp)
-- Spark Benefits
-- Lazy Evaluation
-- Jobs, Stages and Tasks
-- Databricks
-- Spark Language options
-- PySpark Coding
-
 ***
 <details>
 <summary><strong>PySpark Interview Preparation Guide</strong></summary>
